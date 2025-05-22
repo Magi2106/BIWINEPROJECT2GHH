@@ -1,3 +1,1 @@
-# Wine Quality EDA Project
-
-This project explores and visualizes wine quality data.
+#BI wine projekt 2025
